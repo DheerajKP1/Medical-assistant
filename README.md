@@ -1,6 +1,6 @@
 ## Medical Assistant Chatbot
 Overview
-The Medical Assistant Chatbot is an AI-driven tool designed to assist doctors by providing medical insights, understanding documents, and improving patient interactions. Built using Retrieval-Augmented Generation (RAG) technology, it allows medical professionals to upload documents, which the chatbot can process and comprehend to support decision-making.
+The Medical Assistant Chatbot (memory/ without memory) is an AI-driven tool designed to assist doctors by providing medical insights, understanding documents, and improving patient interactions. Built using Retrieval-Augmented Generation (RAG) technology, it allows medical professionals to upload documents, which the chatbot can process and comprehend to support decision-making.
 
 Features
 ✔ Medical Document Understanding – Reads and interprets uploaded medical documents.
