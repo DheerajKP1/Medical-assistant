@@ -1,3 +1,7 @@
 vectorstor
 my_portfolio.csv
 messanger.ipynb
+.env
+.chainlit
+chainlit_ui.py
+chainlit.md
